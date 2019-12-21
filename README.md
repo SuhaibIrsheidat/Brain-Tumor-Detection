@@ -31,5 +31,6 @@
    - `[0,1]` No Tumor.
       - NN will predict a probability `in range [0,1]`; Whenever it closer to `[1]` then there is Tumor.
   
-s
+  
+*_Regards._*  
 > Suhaib Irsheidat
