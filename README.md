@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection  
   
-### - You can download the dataset from Google Drive:  
-*[--Dataset Link--](https://drive.google.com/drive/folders/1PZhotdQ5HCgDg1rSfcJCDsB-EkE3biCf?usp=sharing)*  
+### - You can download the dataset from *[Google Drive](https://drive.google.com/drive/folders/1PZhotdQ5HCgDg1rSfcJCDsB-EkE3biCf?usp=sharing).*  
+  
   
 ### - Dataset consist of:  
 ```
@@ -17,4 +17,6 @@
 *- You can import the ```code.ipynb``` to Colab or Jupyter Notebook*  
 *- Make sure to change the ```data``` directory to the appropriate path*  
   
+  
+s
 > Suhaib Irsheidat
