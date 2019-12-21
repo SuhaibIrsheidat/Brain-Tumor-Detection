@@ -14,7 +14,7 @@
     - 2 no.jpg ...
 ```
 
-### Instructions:  
+### - Instructions:  
 *- Libraries must be installed:*
    - Tensorflow >= 1.4
    - Tflearn
