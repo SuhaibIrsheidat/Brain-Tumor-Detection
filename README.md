@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection  
+# Brain Tumor Detection Using _TensorFlow CNN_  
   
 ### - You can download the dataset from *[Google Drive](https://drive.google.com/drive/folders/1PZhotdQ5HCgDg1rSfcJCDsB-EkE3biCf?usp=sharing).*  
   
@@ -13,9 +13,17 @@
     - 1 no.jpg
     - 2 no.jpg ...
 ```
-  
-*- You can import the ```code.ipynb``` to Colab or Jupyter Notebook*  
-*- Make sure to change the ```data``` directory to the appropriate path*  
+
+*- Libraries must be installed:*
+   - Tensorflow >= 1.4
+   - Tflearn
+   - OpenCV
+   - Pandas 
+   - Matplotlib
+   - Numpy
+   
+*- You can import the ```code.ipynb``` to Colab or Jupyter Notebook.*  
+*- Make sure to change the ```data``` directory to the appropriate path.*  
   
   
 s
