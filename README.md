@@ -4,7 +4,6 @@
 https://drive.google.com/drive/folders/1PZhotdQ5HCgDg1rSfcJCDsB-EkE3biCf?usp=sharing  
   
 #### - Dataset consist of:  
-1. data
   - yes
     - Y1.jpg
     - Y2.jpg ...
