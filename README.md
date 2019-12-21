@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1PZhotdQ5HCgDg1rSfcJCDsB-EkE3biCf?usp=sha
     - 2 no.jpg ...
 ```
   
-* - You can import the ```code.ipynb``` to Colab or Jupyter Notebook*  
-* - Make sure to change the ```data``` directory to the appropriate path*  
+*- You can import the ```code.ipynb``` to Colab or Jupyter Notebook*  
+*- Make sure to change the ```data``` directory to the appropriate path*  
   
 > Suhaib Irsheidat
