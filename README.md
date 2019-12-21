@@ -5,10 +5,10 @@ https://drive.google.com/drive/folders/1PZhotdQ5HCgDg1rSfcJCDsB-EkE3biCf?usp=sha
   
 #### - Dataset consist of:  
 1. data
-  1. yes
+  - yes
     - Y1.jpg
     - Y2.jpg ...
-  2. no
+  - no
     - 1 no.jpg
     - 2 no.jpg ...
   
